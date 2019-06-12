@@ -1,2 +1,0 @@
-# myweb.github.io
-practice
